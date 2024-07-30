@@ -2,6 +2,9 @@
 USERNAME:abhishek@gmail.com
 PASSWORD:1111
 Project Title: Movie Ticket Booking System
+Server:Xamp/Wamp
+Database:MySQL
+Tool:VS CODE/SublimeText
 Project Overview
 The Movie Ticket Booking System is a web application designed to facilitate the process of booking movie tickets online. The system allows users to view available movies, select seats, and book tickets. It provides an intuitive user interface for customers and a backend administration panel for managing movies and bookings.
 
